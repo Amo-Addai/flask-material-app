@@ -1,0 +1,20 @@
+{
+    "name": "boilerplate-code-flask-app",
+    "mastertemplate": "boilerplate-code-flask-app",
+    "version": "2stable.0.1",
+    "description": "Template project - Flask Boilerplate Code",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/app-generator/boilerplate-code-flask-app"
+    },
+    "bugs": {
+        "url": "https://github.com/app-generator/boilerplate-code-flask-app/issues",
+        "email": "support@AUTO.com"
+    },
+    "author": "A",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
