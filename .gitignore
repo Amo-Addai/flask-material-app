@@ -16,6 +16,7 @@ env
 venv
 
 # other
+.DS_STORE
 .DS_Store
 
 # sphinx docs 
